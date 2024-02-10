@@ -10,13 +10,13 @@ This repository contains a Python implementation of an N-gram autocomplete syste
 
 ## Usage:
 ```bash
-# Ensure you have Python installed on your system.
-# Clone this repository to your local machine.
-# Navigate to the repository directory.
-# Run the `autocomplete.py` script with Python.
+Ensure you have Python installed on your system.
+Clone this repository to your local machine.
+Navigate to the repository directory.
+Run the `autocomplete.py` script with Python.
 python autocomplete.py
 ```
 
 ## Note:
-# This implementation relies solely on Python's built-in functionalities, with no external libraries required.
-# Input text data can be customized for specific applications or domains.
+This implementation relies solely on Python's built-in functionalities, with no external libraries required.
+Input text data can be customized for specific applications or domains.
